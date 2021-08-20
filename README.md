@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me around the internet doing
+- 🖼 [doodles](https://lofi.codes/doodles/) and creative coding
+- 🎥 [videos](https://www.youtube.com/channel/UCfZSZg1IOi6vRkCZ_azrG0w) about creative coding
+- 🦜 [tweets](https://twitter.com/loficodes) about all sorts of things
+- ✍️ [writing](https://lofi.codes/articles) about digital work
+- 🗣 [talks](https://lofi.codes/talks) about creative coding (hopefully coming back soon!)
