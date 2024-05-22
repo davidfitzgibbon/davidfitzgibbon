@@ -21,7 +21,7 @@ You can find me around the internet doing
 
 🎥 -  [videos](https://www.youtube.com/channel/UCfZSZg1IOi6vRkCZ_azrG0w) about creative coding
 
-🦣 -  [toots]([https://twitter.com/loficodes](https://vis.social/@lofi)) about all sorts of things
+🦣 -  [toots]([https://twitter.com/loficodes](https://vis.social/@lofi) about all sorts of things
 
 ✍️ - [writing](https://lofi.codes/articles) about digital work
 
